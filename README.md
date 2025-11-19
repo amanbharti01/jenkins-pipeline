@@ -1,2 +1,3 @@
-# jenkins-pipeline
-creating a new pipeline
+# Jenkins Pipeline Repo
+This is my first Jenkins CI/CD pipeline.
+
